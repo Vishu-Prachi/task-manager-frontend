@@ -1,0 +1,6 @@
+- Display all tasks from backend
+- Add new task
+- Edit task
+- Delete task
+- Mark task as completed
+- Real-time UI updates
